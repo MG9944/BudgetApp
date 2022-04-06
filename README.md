@@ -13,4 +13,5 @@ npm start
 # Demo
 * https://mg9944.github.io/BudgetApp/ 
 
-<img width="960" alt="bpla" src="https://user-images.githubusercontent.com/94039553/161953624-9c439e4b-59f8-4867-8e3e-4f33a4c77441.png">
+<img width="960" alt="bpla" src="https://user-images.githubusercontent.com/94039553/161960499-173b302a-2b68-41de-a5d0-1f94b71d3789.png">
+
